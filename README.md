@@ -1,2 +1,2 @@
 # Zero-Death
-My Machine Project for CCPROG1
+My Machine Project
