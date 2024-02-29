@@ -1,4 +1,4 @@
-# Zero Death: A Text-Based RPG Game
+# Zero Death: A Turn-Based RPG Game
 
 ## Overview:
 Zero Death is a turn-based text adventure RPG game developed during my first year of college. It is designed to be accessible through the Command-Line Interface (CLI) and offers players an immersive gaming experience reminiscent of classic role-playing games.
